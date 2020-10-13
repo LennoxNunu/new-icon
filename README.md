@@ -28,7 +28,7 @@ copy/cut all the mipmap folders to replace those deleted in step 2
 
 ![android3](https://user-images.githubusercontent.com/68849219/95857006-39edc180-0d5b-11eb-875c-00ece0fb2bef.png)
 
-That it,we are done, we have change the icons for android.
+That it,we are done, we have changed the icons for android.
 
 
 ### IOS
@@ -55,4 +55,4 @@ delete the icons forwhich the name was not changed.
 
 ![ios5](https://user-images.githubusercontent.com/68849219/95858257-188dd500-0d5d-11eb-937f-9a4ec97b88ca.png)
 
-That it,we are done, we have change the icons for IOS.
+That it,we are done, we have changed the icons for IOS.
