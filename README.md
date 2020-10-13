@@ -25,3 +25,5 @@ delete all the mipmap folders
 step 3 :
 unzip downloaded folder from step 1. 
 copy/cut all the mipmap folders to replace those deleted in step 2
+
+![android3](https://user-images.githubusercontent.com/68849219/95857006-39edc180-0d5b-11eb-875c-00ece0fb2bef.png)
