@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. What we will do is change the flutter icon manually, for both ISO and Android devices.
+This project is a starting point for a Flutter application. What we will do is change the flutter icon manually, for both IOS and Android devices.
 
 ### Andriod
 
@@ -27,3 +27,31 @@ unzip downloaded folder from step 1.
 copy/cut all the mipmap folders to replace those deleted in step 2
 
 ![android3](https://user-images.githubusercontent.com/68849219/95857006-39edc180-0d5b-11eb-875c-00ece0fb2bef.png)
+
+That it,we are done, we have change the icons for android.
+
+
+###IOS
+
+step 1 : 
+go to https://hotpot.ai/icon_resizer select the iOS Icon, upload image in the specified area, click the generate button
+
+pic1
+
+step 2 :
+unzip the downloaded folder, open it and delete all the Apple-Watch-Icons.
+
+pic2
+ 
+copy all the remaining icons, open and paste icons in the following directory ios/Runner/Asset.cassets/AppIcon.appiconset
+
+pic3
+
+identify equal size icons then delete each flutter icon before renaming your new icon with the old flutter icon name. 
+
+pic4 
+
+delete the icons forwhich the name was not changed.
+
+pic5
+
