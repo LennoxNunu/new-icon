@@ -17,3 +17,6 @@ step 2 :
 open the following directory android/app/src/main/res
 
 ![android2 1](https://user-images.githubusercontent.com/68849219/95856203-f0e93d80-0d59-11eb-8ba4-353d23abbb42.png)
+
+
+![android2 2](https://user-images.githubusercontent.com/68849219/95856460-59d0b580-0d5a-11eb-8270-15a9ff17e9d3.png)
