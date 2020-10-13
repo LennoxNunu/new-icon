@@ -54,3 +54,5 @@ identify equal size icons then delete each flutter icon before renaming your new
 delete the icons forwhich the name was not changed.
 
 ![ios5](https://user-images.githubusercontent.com/68849219/95858257-188dd500-0d5d-11eb-937f-9a4ec97b88ca.png)
+
+That it,we are done, we have change the icons for IOS.
