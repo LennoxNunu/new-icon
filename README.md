@@ -31,27 +31,26 @@ copy/cut all the mipmap folders to replace those deleted in step 2
 That it,we are done, we have change the icons for android.
 
 
-###IOS
+### IOS
 
 step 1 : 
 go to https://hotpot.ai/icon_resizer select the iOS Icon, upload image in the specified area, click the generate button
 
-pic1
+![ios1](https://user-images.githubusercontent.com/68849219/95858044-c351c380-0d5c-11eb-85e1-1feb78f2f101.png)
 
 step 2 :
 unzip the downloaded folder, open it and delete all the Apple-Watch-Icons.
 
-pic2
+![ios2](https://user-images.githubusercontent.com/68849219/95858123-dfedfb80-0d5c-11eb-9889-40a4d5f96e63.png)
  
 copy all the remaining icons, open and paste icons in the following directory ios/Runner/Asset.cassets/AppIcon.appiconset
 
-pic3
+![ios3](https://user-images.githubusercontent.com/68849219/95858184-f85e1600-0d5c-11eb-95aa-d3866b54bddd.png)
 
 identify equal size icons then delete each flutter icon before renaming your new icon with the old flutter icon name. 
 
-pic4 
+![ios4](https://user-images.githubusercontent.com/68849219/95858220-09a72280-0d5d-11eb-8665-4d1c08e635e0.png)
 
 delete the icons forwhich the name was not changed.
 
-pic5
-
+![ios5](https://user-images.githubusercontent.com/68849219/95858257-188dd500-0d5d-11eb-937f-9a4ec97b88ca.png)
