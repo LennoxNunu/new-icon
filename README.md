@@ -8,10 +8,12 @@ This project is a starting point for a Flutter application. What we will do is c
 
 ### Andriod
 
-step 1 
+step 1 :
 go to https://appicon.co drag image in the specified area, only select the android, click the generate button.
 
 ![android1](https://user-images.githubusercontent.com/68849219/95855324-7b30a200-0d58-11eb-9c68-936ccbd8ff3f.png)
 
-step 2 
+step 2 :
 open the following directory android/app/src/main/res
+
+![android2 1](https://user-images.githubusercontent.com/68849219/95856203-f0e93d80-0d59-11eb-8ba4-353d23abbb42.png)
